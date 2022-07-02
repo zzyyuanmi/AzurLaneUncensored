@@ -6,6 +6,8 @@
 
 本仓库文件所有立绘文件均来自于 [azurlane_uncensored](https://github.com/taofan233/azurlane_uncensored)。该仓库实际是空项目，仅在 Releases 发布更新。每次更新不发布新 Release，而是直接替换已有 Release 的 Assets，给版本控制带来了极大的不便。AzurLaneUncensored 将这些文件添加进 git 中，并提供自动反和谐的方法。
 
+另外加入一些立绘魔改资源，详见 [魔改说明](uncensored.md)
+
 另外，这里需要讲解一些反和谐方式和纠正原仓库中的错误认识。
 
 1. **localization.txt 反和谐**。将下面的内容写入 `com.bilibili.azurlane/files/localization.txt` 即可解锁特殊触摸和取消一些由代码控制的和谐，比如长岛 ”干物三连！“ 皮肤中的安全裤。
